@@ -1,0 +1,67 @@
+.Auth-form {
+  width: 420px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+.color-button {
+  border: 1px solid #ced4da;
+}
+
+.link-primary {
+  cursor: pointer;
+}
+
+.PhoneInputInput {
+  border: 1px;
+  padding: 0.375rem 0.75rem;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.navbar {
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  background-color: white;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: white; 
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
